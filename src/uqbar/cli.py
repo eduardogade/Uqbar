@@ -58,8 +58,12 @@ TIETA: str = "tieta"  # Program to generate claude prompts for summary-expansion
 # Datetime/Calendar-related tasks
 LOLA: str = "lola" # Program to perform datetime-related tasks
 
+# CV automatizer
+BARTLEBY: str = "w3qg3qa" # Program to automatize CV creation
+
 # Cookiecutter
 DEFAULT: str = "default"  # Program to search for strings in dirs, files and inside
+
 
 
 TRUE_VALUE_SET: set[str] = {"true", "t", "yes", "y", "1", "on"}

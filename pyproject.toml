@@ -176,10 +176,10 @@ uqbar = "uqbar.__main__:main"
 # Project URLs (PyPI side panel)
 # ---------------------------
 [project.urls]
-Homepage = "https://github.com/eggduzao/package"
+Homepage = "https://github.com/eduardogade/package"
 Documentation = "https://package.org/docs"
-Source = "https://github.com/eggduzao/package"
-Issues = "https://github.com/eggduzao/package/issues"
+Source = "https://github.com/eduardogade/package"
+Issues = "https://github.com/eduardogade/package/issues"
 GusmaoLab = "https://www.gusmaolab.org"
 
 

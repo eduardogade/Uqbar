@@ -11,11 +11,11 @@ A collection of main/shared modules across multiple GusmaoLab's Projects. Also i
 
 ✅ GitHub Actions: Tests
 Replace "test.yml" with your actual workflow filename
-![Tests](https://github.com/eggduzao/package/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/eduardogade/package/actions/workflows/test.yml/badge.svg)
 
 📈 Codecov: Code Coverage
 Sign up at codecov.io and activate this project
-[![codecov](https://codecov.io/gh/eggduzao/package/branch/main/graph/badge.svg)](https://codecov.io/gh/eggduzao/package)
+[![codecov](https://codecov.io/gh/eduardogade/package/branch/main/graph/badge.svg)](https://codecov.io/gh/eduardogade/package)
 
 📦 PyPI version
 [![PyPI](https://img.shields.io/pypi/v/package?style=for-the-badge)](https://pypi.org/project/package/)
@@ -31,7 +31,7 @@ Sign up at codecov.io and activate this project
 ![flake8](https://img.shields.io/badge/flake8-linting-333333?style=for-the-badge&logo=python&logoColor=white)
 
 🧰 Dependencies Status
-[![Dependencies](https://img.shields.io/librariesio/github/eggduzao/package?style=for-the-badge)](https://libraries.io/github/eggduzao/package)
+[![Dependencies](https://img.shields.io/librariesio/github/eduardogade/package?style=for-the-badge)](https://libraries.io/github/eduardogade/package)
 
 </details>
 
@@ -39,13 +39,13 @@ Sign up at codecov.io and activate this project
 <summary><strong>🔐 Compliance & Maintenance</strong></summary>
 
 🛡️ License
-![License](https://img.shields.io/github/license/eggduzao/package?style=for-the-badge)
+![License](https://img.shields.io/github/license/eduardogade/package?style=for-the-badge)
 
 🔒 Security Policy
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge&logo=github)](https://github.com/eggduzao/package/security/policy)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge&logo=github)](https://github.com/eduardogade/package/security/policy)
 
 🔄 Last Commit
-![Last Commit](https://img.shields.io/github/last-commit/eggduzao/package?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/eduardogade/package?style=for-the-badge)
 
 </details>
 
@@ -79,7 +79,7 @@ Sign up at codecov.io and activate this project
 
 ![Package Sync Engine](https://img.shields.io/badge/Package--Sync-On%20Hold%20🕊️-gray?style=for-the-badge)
 ![Package Release](https://img.shields.io/badge/Version-Under%20Divine%20Construction%20🚧-purple?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/eggduzao/package?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/eduardogade/package?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-FF69B4?style=for-the-badge)
 
 </details>
@@ -265,7 +265,7 @@ Born in the Brazilian SUS ecosystem, Package embraces **research-grade software 
 - **Semantic Harmonization**  
   Map local variables to biomedical ontologies: OMOP, SNOMED-CT, LOINC, HPO, UMLS, and more.
 - **Advanced Imputation**  
-  Integrate with [TryDINN](https://github.com/eggduzao/TryDINN) for deep learning-based missing data imputation.
+  Integrate with [TryDINN](https://github.com/eduardogade/TryDINN) for deep learning-based missing data imputation.
 - **Modular Dashboards**  
   Interactive Dash/Plotly UI for exploration, filtering, and data export.
 - **Pluggable Architecture**  
@@ -308,7 +308,7 @@ Package/
 pip install package
 
 # From source
-git clone https://github.com/eggduzao/package.git
+git clone https://github.com/eduardogade/package.git
 cd package
 pip install -e .[dev]
 ```
@@ -388,7 +388,7 @@ Use the GUI or CLI to explore and save your results.
 ## 📚 Documentation
 
 Full documentation is available at:
-[package.org/docs (coming soon)](https://github.com/eggduzao/Package)
+[package.org/docs (coming soon)](https://github.com/eduardogade/Package)
 
 ---
 
